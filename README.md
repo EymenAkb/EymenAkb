@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Themrblank
 -  💞️ I am learning PYTHON
--  ☾☆ I am from Türkiye
+-  ☾☆ I am from Türkiye (Turkey)
 
 <!---
 Themrblank/Themrblank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
