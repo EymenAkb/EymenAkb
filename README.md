@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Themrblank
+- 👋 Hi, I’m Eymen Akb.
 -  💞️ I am learning PYTHON
 -  ☾☆ I am from Türkiye (Turkey)
 
